@@ -869,28 +869,29 @@
                 },
                 "444-Etat - Imp\u00f4ts sur les b\u00e9n\u00e9fices": {},
                 "445-Etat - Taxes sur le chiffre d'affaires à décaisser": {
-                    "4455-Taxes sur le chiffre d'affaires \u00e0 d\u00e9caisser": {},
-                    "44551-TVA \u00e0 d\u00e9caisser": {},
-                    "44558-Taxes assimil\u00e9es \u00e0 la TVA": {}
-                },
-                "4452-TVA due intracommunautaire": {},
-                "4456-Taxes sur le chiffre d'affaires d\u00e9ductibles": {
-                    "44562-TVA sur immobilisations": {},
-                    "44563-TVA transf\u00e9r\u00e9e par d'autres entreprises": {},
-                    "44566-TVA sur autres biens et services": {},
-                    "44567-Cr\u00e9dit de TVA \u00e0 reporter": {},
-                    "44568-Taxes assimil\u00e9es \u00e0 la TVA": {}
-                },
-                "4457-Taxes sur le chiffre d'affaires collect\u00e9es par l'entreprise": {
-                    "44571-TVA collect\u00e9e": {
-                        "account_type": "Tax"
+                    "4452-TVA due intracommunautaire": {},
+                    "4455-Taxes sur le chiffre d'affaires \u00e0 d\u00e9caisser": {
+                         "44551-TVA \u00e0 d\u00e9caisser": {},
+                         "44558-Taxes assimil\u00e9es \u00e0 la TVA": {}                   
                     },
-                    "44578-Taxes assimil\u00e9es \u00e0 la TVA": {}
-                },
-                "4458-Taxes sur le chiffre d'affaires en attente": {
-                    "44584-TVA r\u00e9cup\u00e9r\u00e9e  d'avance": {},
-                    "44586-Taxes sur le chiffre d'affaires sur factures non parvenues": {},
-                    "44587-Taxes sur le chiffre d'affaires sur factures \u00e0 \u00e9tablir": {}
+                    "4456-Taxes sur le chiffre d'affaires d\u00e9ductibles": {
+                         "44562-TVA sur immobilisations": {},
+                         "44563-TVA transf\u00e9r\u00e9e par d'autres entreprises": {},
+                         "44566-TVA sur autres biens et services": {},
+                         "44567-Cr\u00e9dit de TVA \u00e0 reporter": {},
+                         "44568-Taxes assimil\u00e9es \u00e0 la TVA": {}
+                    },
+                    "4457-Taxes sur le chiffre d'affaires collect\u00e9es par l'entreprise": {
+                         "44571-TVA collect\u00e9e": {
+                                    "account_type": "Tax"
+                         },
+                         "44578-Taxes assimil\u00e9es \u00e0 la TVA": {}
+                    },
+                    "4458-Taxes sur le chiffre d'affaires en attente": {
+                         "44584-TVA r\u00e9cup\u00e9r\u00e9e  d'avance": {},
+                         "44586-Taxes sur le chiffre d'affaires sur factures non parvenues": {},
+                        "44587-Taxes sur le chiffre d'affaires sur factures \u00e0 \u00e9tablir": {}
+                    },
                 },
                 "446-Obligations cautionn\u00e9es": {},
                 "447-Autres imp\u00f4ts, taxes et versements assimil\u00e9s": {},
