@@ -1674,57 +1674,36 @@
                 },
                 "Etat - Taxes sur le chiffre d'affaires \u00e0 d\u00e9caisser": {
                     "Taxes sur le chiffre d'affaires \u00e0 d\u00e9caisser": {
+                        "TVA \u00e0 d\u00e9caisser": {
+                            "account_number": "44551"
+                        },
+                        "Taxes assimil\u00e9es \u00e0 la TVA": {
+                            "account_number": "44558"
+                        },
                         "account_number": "4455"
                     },
-                    "TVA \u00e0 d\u00e9caisser": {
-                        "account_number": "44551"
+                    "Taxes sur le chiffre d'affaires collect\u00e9es par l'entreprise": {
+                        "TVA collect\u00e9e": {
+                            "account_number": "44571"
+                        },
+                        "Taxes assimil\u00e9es \u00e0 la TVA": {
+                            "account_number": "44578"
+                        },
+                        "account_number": "4457"
                     },
-                    "Taxes assimil\u00e9es \u00e0 la TVA": {
-                        "account_number": "44558"
+                    "Taxes sur le chiffre d'affaires en attente": {
+                        "TVA r\u00e9cup\u00e9r\u00e9e  d'avance": {
+                            "account_number": "44584"
+                        },
+                        "Taxes sur le chiffre d'affaires sur factures non parvenues": {
+                            "account_number": "44586"
+                        },
+                        "Taxes sur le chiffre d'affaires sur factures \u00e0 \u00e9tablir": {
+                            "account_number": "44587"
+                        },
+                        "account_number": "4458"
                     },
                     "account_number": "445"
-                },
-                "TVA due intracommunautaire": {
-                    "account_number": "4452"
-                },
-                "Taxes sur le chiffre d'affaires d\u00e9ductibles": {
-                    "TVA sur immobilisations": {
-                        "account_number": "44562"
-                    },
-                    "TVA transf\u00e9r\u00e9e par d'autres entreprises": {
-                        "account_number": "44563"
-                    },
-                    "TVA sur autres biens et services": {
-                        "account_number": "44566"
-                    },
-                    "Cr\u00e9dit de TVA \u00e0 reporter": {
-                        "account_number": "44567"
-                    },
-                    "Taxes assimil\u00e9es \u00e0 la TVA": {
-                        "account_number": "44568"
-                    },
-                    "account_number": "4456"
-                },
-                "Taxes sur le chiffre d'affaires collect\u00e9es par l'entreprise": {
-                    "TVA collect\u00e9e": {
-                        "account_number": "44571"
-                    },
-                    "Taxes assimil\u00e9es \u00e0 la TVA": {
-                        "account_number": "44578"
-                    },
-                    "account_number": "4457"
-                },
-                "Taxes sur le chiffre d'affaires en attente": {
-                    "TVA r\u00e9cup\u00e9r\u00e9e  d'avance": {
-                        "account_number": "44584"
-                    },
-                    "Taxes sur le chiffre d'affaires sur factures non parvenues": {
-                        "account_number": "44586"
-                    },
-                    "Taxes sur le chiffre d'affaires sur factures \u00e0 \u00e9tablir": {
-                        "account_number": "44587"
-                    },
-                    "account_number": "4458"
                 },
                 "Obligations cautionn\u00e9es": {
                     "account_number": "446"
